@@ -1,0 +1,4 @@
+List now is a Python based Machine Learning model which helps selecting housing price when listing your home.
+It uses a multiple linear regression and gradient descent to select optimal listing price for housing in Toronto. 
+  - All suggested prices are in CAD. 
+  - This is simply an average and the data is relevant to 2024. 
